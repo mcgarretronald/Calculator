@@ -51,9 +51,9 @@ button {
 #rmv{
     background: transparent;
     box-shadow: none;
-    color: rgb(230, 228, 228);
+   
 }
 button:hover{
-    background-color: rgb(244, 241, 238);
-    color: black;
+    background-color: rgb(32, 32, 31);
+    
 }
