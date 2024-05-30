@@ -12,7 +12,7 @@ function calculate() {
     }
     catch (error) {
         display.value = "Error"
-        display.style.color = "red"
+
     }
 
 }
